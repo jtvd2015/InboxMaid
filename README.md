@@ -3,7 +3,7 @@
 **InboxMaid** is a C# console app that helps you declutter your inbox by automatically finding and unsubscribing from unwanted newsletters and marketing emails.  
 No more endless scrolling or clicking “unsubscribe” one by one—let InboxMaid tidy up your mailbox for you!
 
-![InboxMaid Logo](docs/screenshots/logo.png)
+![InboxMaid Logo](docs/screenshots/logo_InboxMaid.png)
 
 ---
 
