@@ -1,0 +1,25 @@
+# Ignore build output folders
+bin/
+obj/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore Visual Studio temporary files
+.vs/
+
+# Ignore NuGet packages folder
+packages/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore Rider IDE files (if you use JetBrains Rider)
+.idea/
+
+# Ignore publish output folder
+publish/
